@@ -1,11 +1,14 @@
-<h1 align="center">Hi 👋, I'm Daniels</h1>
+<h1 align="center">Hi 🥷, I'm Daniels</h1>
 <h3 align="center">A passionate junior backend developer from Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cheatbarspin&label=Profile%20views&color=b019b0&style=flat" alt="cheatbarspin" /> </p>
 
 - 🌱 I’m currently learning **in sky.pro university**
 
-- 📝 I regularly write articles on [https://www.instagram.com/stories/highlights/17955308161625443/](https://www.instagram.com/stories/highlights/17955308161625443/)
+- 📝 I regularly write articles on:
+- [https://www.instagram.com/stories/highlights/17955308161625443/](https://www.instagram.com/stories/highlights/17955308161625443/)
+
+
 
 - 📫 How to reach me **wavesaftwaves@gmail.com**
 
