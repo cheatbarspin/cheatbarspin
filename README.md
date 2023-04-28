@@ -7,12 +7,12 @@
 
 - 📝 I regularly write articles on:
 - [https://www.instagram.com/stories/highlights/17955308161625443/](https://www.instagram.com/stories/highlights/17955308161625443/)
-
-
+<br>
 
 - 📫 How to reach me **wavesaftwaves@gmail.com**
 
 - ⚡ Fun fact **I think I am cringe**
+- 👅 Languages **RU/EN/DE/LV**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
