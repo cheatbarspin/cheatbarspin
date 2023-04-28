@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **in sky.pro university**
 
-- 📝 I regularly write articles on:
+- 📝 I regularly write stories on:
 - [https://www.instagram.com/stories/highlights/17955308161625443/](https://www.instagram.com/stories/highlights/17955308161625443/)
 <br>
 
