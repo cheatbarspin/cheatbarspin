@@ -1,6 +1,6 @@
 ![](https://github.com/cheatbarspin/cheatbarspin/blob/311cc169527a910f550d4036e05bd8b50c0604fb/welcome%20to%20My(1).png)
 <h1 align="center">Hi 🥷, I'm Daniels</h1>
-<h3 align="center">A passionate junior backend developer from Germany</h3>
+<h3 align="center">A passionate Junior Backend Developer from Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cheatbarspin&label=Profile%20views&color=b019b0&style=flat" alt="cheatbarspin" /> </p>
 <img align="right" width="200" height="200" src="https://github.com/cheatbarspin/cheatbarspin/blob/27f01a5e61173edffb5b4525168984c2f211eab5/IMG_4088.jpg">
