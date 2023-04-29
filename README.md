@@ -8,7 +8,9 @@
 
 - 📝 I regularly write stories on:
 - [https://www.instagram.com/stories/highlights/17955308161625443/](https://www.instagram.com/stories/highlights/17955308161625443/)
+<img align="right" width="200" height="200" src="https://github.com/cheatbarspin/cheatbarspin/blob/27f01a5e61173edffb5b4525168984c2f211eab5/IMG_4088.jpg">
 <br>
+
 
 - 📫 How to reach me **wavesaftwaves@gmail.com**
 
